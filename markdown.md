@@ -35,3 +35,4 @@ ex)text editor,웹 환경 등에서 모두 지원(HTML 변환)
 
 - link:링크
 - [문자열](rul)을 통해 링크 작성 가능
+git config --global user.name "khs555"
