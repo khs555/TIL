@@ -34,5 +34,9 @@ ex)text editor,웹 환경 등에서 모두 지원(HTML 변환)
 - 코드 블록은 backtick 기호 1개를 인라인에 활용하여 작성('')
 
 - link:링크
-- [문자열](rul)을 통해 링크 작성 가능
-git config --global user.name "khs555"
+- [문자열] (url)을 통해 링크 작성 가능
+
+- image:이미지
+- ![문자열] (url)을 통해 이미지를 사용 가능
+- 특정 파일들 포함하여 연결 시킬 수도 있음
+
