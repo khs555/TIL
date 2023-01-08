@@ -152,3 +152,15 @@
 - else: try문에서 예외가 
 발생하지 않으면 살행함
 - finally:예외 발생 여부와 관계없이 항상 실행함
+
+## 파일입출력
+- open(flie, mode='r', encoding=None)-> file:파일명,mode:텍스트 모드, encoding:인코딩(일반적으로 utf-8활용)
+![12](/images/image11.png)
+
+## JSON
+- JSON은 자바스크립트 객체 표기법으로 개발환경에서 많이 활용되는 데이터 양식으로 웹 어플리케이션에서 데이터 전송할때 일반적으로 사용함
+
+![13](/images/image12.png)
+
+
+- pprint: 파이썬 데이터 구조를 예쁘게 인쇄 할수 있는 기능
